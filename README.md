@@ -4,7 +4,7 @@
   <div style="margin-right: 20px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-NB&show_icons=true&title_color=375DDA&icon_color=375DDA&text_color=ffffff&bg_color=000000" />
   </div>
-  <div style="margin-left: 20px;">
+  <div style="margin-left: 2px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-NB&layout=compact&title_color=375DDA&icon_color=375DDA&text_color=ffffff&bg_color=000000" />
   </div>
 </div>
