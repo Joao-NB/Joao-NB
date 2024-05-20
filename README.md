@@ -1,4 +1,7 @@
-### Hi there 👋
+### Salve, salve, seres humanos de todo o mundo🖖
+
+![João Guilherme's GitHub status](https://github-readme-stats.vercel.app/api?username=Joao-NB&show_icons=true&title_color=375DDA&icon_color=375DDA&text_color=ffffff&bg_color=000000)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-NB&layout=compact&title_color=375DDA&icon_color=375DDA&text_color=ffffff&bg_color=000000)
 
 <!--
 **Joao-NB/Joao-NB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
