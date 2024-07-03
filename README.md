@@ -14,7 +14,7 @@
     <h1 align="center">My Skills:</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png">
+    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
