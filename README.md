@@ -1,4 +1,4 @@
-### Salve, salve seres humanos de todo o mundo🖖 <br> ![](https://komarev.com/ghpvc/?username=oartuu&color=blueviolet&style=flat-square&base=120&abbreviated=true)  
+### Salve, salve seres humanos de todo o mundo🖖 <br> ![](https://komarev.com/ghpvc/?username=Joao-NB&color=blue&style=flat-square&label=Profile+Views)  
 
 
 <div>
