@@ -1,6 +1,7 @@
 ### Salve, salve seres humanos de todo o mundo🖖 <br> ![](https://komarev.com/ghpvc/?username=Joao-NB&color=blue&style=flat-square&label=Profile+Views)  
 
 
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-NB&show_icons=true&title_color=375DDA&icon_color=375DDA&text_color=ffffff&bg_color=000000" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-NB&layout=compact&langs_count=16&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -31,7 +32,11 @@
 <br>
 <img width="100%" margin-top="10" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
+<br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Joao-NB/Joao-NB/main/languages-2.svg" alt="Linguagens que domino">
+</p>
 
 
 <hr>
